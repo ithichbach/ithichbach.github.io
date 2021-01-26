@@ -21,6 +21,7 @@ background-color: #fff;
 display: block;
   margin-left: auto;
   margin-right: auto;
+  height: auto;
 }
 #footer {
 margin-left: 10px;
